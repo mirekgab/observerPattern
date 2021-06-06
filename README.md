@@ -1,7 +1,7 @@
 # observerPattern
 Example of observer pattern simple implementation.
 
-How run
+How run:
 1. clone repository:
   <pre>git clone git@github.com:mirekgab/observerPattern.git</pre>
   
